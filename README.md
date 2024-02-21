@@ -17,11 +17,11 @@ To get started with this project, follow these steps:
 
 2. Open the index.html file in your web browser.
 
-##Usage
+## Usage
 Scroll down the page to view poopular movies, upcoming movies and popular shows. Hover or Click on a movie or TV show to see more details.
 
-##Contributing
+## Contributing
 Contributions are welcome! Please read the contributing guidelines before getting started.
 
-##License
+## License
 This project is licensed under the MIT License.
