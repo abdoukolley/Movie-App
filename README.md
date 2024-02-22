@@ -13,7 +13,7 @@ The link to this website: https://abdoukolleymovieapp.netlify.app/
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: git clone https://github.com/abdoukolley/Movie-App.git
+1. Clone the repository: `git clone https://github.com/abdoukolley/Movie-App.git`
 
 2. Open the index.html file in your web browser.
 
